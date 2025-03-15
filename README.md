@@ -48,11 +48,11 @@ The test cases are suitable for manual testing.
 - Follow the outlined test steps and expected results.
 - Report any issues or improvements in the test cases.
 # Key Features
-✅ Covers end-to-end OpenCart functionalities
-✅ Modular test cases, easy to update and maintain
-✅ Supports both manual and automated testing
-✅ Structured in an Excel format for easy readability
-✅ Ideal for QA teams, developers
+- ✅ Covers end-to-end OpenCart functionalities
+- ✅ Modular test cases, easy to update and maintain
+- ✅ Supports both manual and automated testing
+- ✅ Structured in an Excel format for easy readability
+- ✅ Ideal for QA teams, developers
 # Contributing
 - We welcome contributions! If you’d like to improve existing test cases or add new scenarios, feel free to:
 - Fork this repository
