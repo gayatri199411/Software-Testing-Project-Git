@@ -58,5 +58,5 @@ The test cases are suitable for manual testing.
 - Fork this repository
 - Submit a pull request with changes
 - Report issues for test cases that need improvement
-
-
+### Test case file link:
+https://github.com/gayatri199411/Software-Testing-Project-Git/blob/main/OpenCart-TestCases.xlsx
