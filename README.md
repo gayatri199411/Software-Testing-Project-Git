@@ -9,10 +9,10 @@ The test cases are suitable for manual testing.
 ## Version History – Tracks changes and updates in the test cases.
 ## Test Scenarios – High-level test scenarios covering different functionalities.
 ### User Authentication
-Register,
-Login,
-Logout,
-Forgot Password
+- Register
+- Login
+- Logout
+- Forgot Password
 ### Product & Search Functionality
 - Search
 - Product Compare
