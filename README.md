@@ -1,4 +1,4 @@
-# Project1: OpenCart Test Cases
+# Project 1: OpenCart Test Cases
 ## Project Overview
 This repository provides a structured and detailed set of test cases for OpenCart, one of the most widely used open-source eCommerce platforms. 
 It covers various functionalities essential for a smooth user experience, including user authentication, product browsing, checkout process, payment methods, order management, and more.
