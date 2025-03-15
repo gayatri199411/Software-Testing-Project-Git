@@ -14,10 +14,10 @@ Login,
 Logout,
 Forgot Password
 ### Product & Search Functionality
--Search
--Product Compare
--Product Display Page
--Special Offers
+- Search
+- Product Compare
+- Product Display Page
+- Special Offers
 ### Shopping & Order Management
 Add to Cart
 Wish List
