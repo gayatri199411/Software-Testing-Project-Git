@@ -60,3 +60,68 @@ The test cases are suitable for manual testing.
 - Report issues for test cases that need improvement
 ### Test case file link:
 https://github.com/gayatri199411/Software-Testing-Project-Git/blob/main/OpenCart-TestCases.xlsx
+
+# Project 2 : OrangeHRM Manual Testing
+##  Project Overview
+This repository contains a comprehensive set of manual test cases for OrangeHRM—a widely used open-source Human Resource Management System.
+OrangeHRM helps businesses manage HR processes such as employee records, recruitment, leave management, performance tracking, and payroll.
+
+Manual testing ensures that OrangeHRM functions correctly, meets business requirements, and provides a smooth user experience. 
+This project is designed to assist QA testers, developers, and business analysts in testing the platform effectively.
+### Repository Contents
+The test cases are categorized based on different OrangeHRM modules:
+###  1) Login & Authentication
+- User Login
+- Password Recovery
+- Session Timeout Handling
+### 2) Admin Module
+- Add/Edit/Delete Employees
+- Manage User Roles & Permissions
+- System Configuration
+### 3)  PIM (Personal Information Management)
+- Employee Records Management
+- Job Titles & Salary Details
+- Dependents & Emergency Contacts
+### 4) Leave Management
+- Apply for Leave
+- Approve/Reject Leave Requests
+- Leave Balance Calculation
+### 5) Time & Attendance
+- Punch In/Out
+- Work Shift Management
+- Overtime Calculation
+### 6) Recruitment
+- Posting & Application Tracking
+- Interview Scheduling
+- Hiring Decision Workflow
+### 7) Performance Management
+- Performance Goals
+- Employee Appraisal & Reviews
+- Feedback & Ratings
+### 8)  Payroll & Benefits
+- Salary Processing
+- Tax & Deductions Calculation
+- Payslip Generation
+### 9) Reports & Notifications
+- Generate HR Reports
+- Email & System Alerts
+- Audit Logs
+# How to Use
+##  For Manual Testing:
+- Open the test case document.
+- Follow the test steps and compare actual vs. expected results.
+- Report any bugs or inconsistencies.
+# Key Features
+- ✅ Covers all critical OrangeHRM functionalities
+- ✅ Easy-to-follow test steps and expected results
+- ✅ Structured for both manual and automated testing
+- ✅ Helps ensure software reliability and usability
+# Contributing
+We welcome contributions! If you’d like to improve existing test cases or add new scenarios, feel free to:
+
+- Fork this repository
+- Submit a pull request with your changes
+- Report issues for missing or incorrect test cases
+
+
+
